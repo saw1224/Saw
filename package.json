@@ -1,0 +1,15 @@
+{
+  "name": "mi-primer-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html -o css/Reducido.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
